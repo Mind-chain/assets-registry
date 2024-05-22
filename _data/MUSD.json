@@ -3,5 +3,5 @@
   "NAME": "Mindchain USD",
   "SYMBOL": "MUSD",
   "CONTRACT_ADDRESS": "0x1234567890abcdef1234567890abcdef12345678",
-  "PRICE_API": "https://msc-price-sandy.vercel.app/price"
+  "PRICE_API": "https://mind-price-opal.vercel.app/price"
 }
