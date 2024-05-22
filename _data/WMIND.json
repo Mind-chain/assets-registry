@@ -3,5 +3,5 @@
   "NAME": "Wrapped MIND",
   "SYMBOL": "WMIND",
   "CONTRACT_ADDRESS": "0x94E6F64f9a00bE3a7B353f55b303DC5eb0C9C396",
-  "PRICE_API": "https://msc-price-sandy.vercel.app/price"
+  "PRICE_API": "https://mind-price-opal.vercel.app/price"
 }
