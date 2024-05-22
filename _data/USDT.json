@@ -1,7 +1,7 @@
 {
-    "LOGO": "https://violet-eldest-urial-770.mypinata.cloud/ipfs/QmVew4BxXU5LBwitZQV7Q98fKzUua4Mj6BLsfdmgh8CoQQ",
-    "NAME": "mTether (USDT)",
-    "SYMBOL": "USDT",
-    "CONTRACT_ADDRESS": "0x32a8a2052b48Da5FD253cC8B386B88B3E0BF50eE",
-    "PRICE_API": "https://msc-info.vercel.app/price"
-  }
+  "LOGO": "https://violet-eldest-urial-770.mypinata.cloud/ipfs/QmVew4BxXU5LBwitZQV7Q98fKzUua4Mj6BLsfdmgh8CoQQ",
+  "NAME": "mTether (USDT)",
+  "SYMBOL": "USDT",
+  "CONTRACT_ADDRESS": "0x32a8a2052b48Da5FD253cC8B386B88B3E0BF50eE",
+  "PRICE_API": "https://msc-price-sandy.vercel.app/price"
+}

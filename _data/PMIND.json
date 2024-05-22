@@ -1,8 +1,7 @@
 {
-    "LOGO": "https://violet-eldest-urial-770.mypinata.cloud/ipfs/QmWheNNgBcQqgY8MxXAtAujREJKecPFDirYCyF7PSZQtHB",
-    "NAME": "Perry MIND",
-    "SYMBOL": "PMIND",
-    "CONTRACT_ADDRESS": "0x75E218790B76654A5EdA1D0797B46cBC709136b0",
-    "PRICE_API":"https://msc-info.vercel.app/price"
-  }
-  
+  "LOGO": "https://violet-eldest-urial-770.mypinata.cloud/ipfs/QmWheNNgBcQqgY8MxXAtAujREJKecPFDirYCyF7PSZQtHB",
+  "NAME": "Perry MIND",
+  "SYMBOL": "PMIND",
+  "CONTRACT_ADDRESS": "0x75E218790B76654A5EdA1D0797B46cBC709136b0",
+  "PRICE_API": "https://msc-price-sandy.vercel.app/price"
+}
