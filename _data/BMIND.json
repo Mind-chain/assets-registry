@@ -3,5 +3,5 @@
   "NAME": "MindBase",
   "SYMBOL": "BMIND",
   "CONTRACT_ADDRESS": "0x6AAac01CbAc10dC0167F8a4f597ed9207bBe0EDb",
-  "PRICE_API": "https://msc-price-sandy.vercel.app/price"
+  "PRICE_API": "https://mind-price-opal.vercel.app/price"
 }
